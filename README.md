@@ -33,7 +33,7 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
   <img src="https://github.com/madnoder/madnoder/blob/main/Rebus.png" title="Rebus" alt="Rebus" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Teritori.png" title="Teritori"  alt="Teritori" width="40" height="40"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Ollo.jpeg" title="Ollo" alt="Ollo" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/HAQQ.png" title="HAQQ" alt="HAQQ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Islamic%20Coin.png" title="HAQQ" alt="HAQQ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Terp.jpeg" title="Terp" **alt="Terp" width="40" height="40"/>
 </div>
 Umee, Kujira, Defund, Arhcway, Penumbra, Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ, Terp Network, Uptick, Empower, Neutron, SSV Network, Noise, Nibiru, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, Humans and others.
