@@ -26,10 +26,10 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
   <img src="https://github.com/madnoder/madnoder/blob/main/Archway.jpeg" title="Archway" alt="Archway" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Penumbra.jpeg" title="Penumbra" alt="Penumbra" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Sei.png"  title="Sei" alt="Sei" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Stride.png" title="Stide" alt="Stride" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Stratos.png" title="Stratos" alt="Stratos" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Gnoland.jpeg" title="Gnoland" alt="Gnoland" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
