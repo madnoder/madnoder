@@ -61,11 +61,10 @@ At now i run node QuickSilver and PlanQ mainet with 100% uptime.
 </div>
 
 
-
-
 <div id="badges">
   <a href="https://twitter.com/Sergey__Crypto">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+Discord: Mad as a hatter#4581
 <img src="https://komarev.com/ghpvc/?madnoder=your-github-madnoder&style=flat-square&color=blue" alt=""/>
