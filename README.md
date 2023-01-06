@@ -73,4 +73,5 @@ At now i run node QuickSilver and PlanQ mainet with 100% uptime.
   </a>
 </div>
 Discord: Mad as a hatter#4581
-<img src="https://komarev.com/ghpvc/?madnoder=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=madnoder&style=flat-square&color=blue" alt=""/>
+
