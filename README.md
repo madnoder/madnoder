@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/c7/a3/78/c7a378b250038233966d430ee02f3b86.jpg" width="100"/>
+  <img src="https://i.pinimg.com/564x/c7/a3/78/c7a378b250038233966d430ee02f3b86.jpg" width="500"/>
 </div>
 
