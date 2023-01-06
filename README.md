@@ -20,7 +20,7 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
 
 ### :I have some experience in maintaining a test network validator node :
 <div>
-  <img src="https://github.com/madnoder/madnoder/blob/main/umee.png" title="Umee" alt="Umee" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/umee.png" title="Umee" alt="Umee" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
