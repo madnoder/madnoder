@@ -44,9 +44,8 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
 </div>
 Umee, Kujira, 
 <a href="https://defund.explorers.guru/validator/defundvaloper1twfpz0tkr627ccw50e49upudxypf2tqkdcjwpr" style="font-size: 30px;"> DeFund </a>, Arhcway, Penumbra, 
-
-Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ, Terp Network, Uptick, Empower, Neutron, SSV Network, Nibiru, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, Humans and others.
-
+<a href="https://testnet.quicksilver.explorers.guru/validator/quickvaloper19sn2klshqru7wdx7ghkaapdfmlexj209cd75dw" style="font-size: 30px;"> Quicksilver </a>, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, 
+<a href="https://haqq.explorers.guru/validator/haqqvaloper1c0n6a62x3pg6mjd42eddl24t0uk745sfmdkreq" style="font-size: 30px;"> HAQQ </a>, <a href="https://explorer.kjnodes.com/terp-test/staking/terpvaloper1429wq7d763gzn409rzh6euv04pwxvrt8uh6sxv" style="font-size: 30px;"> Terp Network </a>, <a href="https://uptick.explorers.guru/validator/uptickvaloper1ajk7grr7wrcvyqmr0649kg6get8933a4ctzfue" style="font-size: 30px;"> Uptick </a>, Empower, Neutron, <a href="https://explorer.ssv.network/operators/163" style="font-size: 30px;"> SSV Network </a>, <a href="https://nibiru.explorers.guru/validator/nibivaloper15gw93epd5x9379j5pd9vel3xe4h8yvcufkc0sc" style="font-size: 30px;"> Nibiru </a>, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, <a href="https://explorer.humans.zone/humans-testnet/staking/humanvaloper164kf47a2q6fq0gd3kwx5wry4k4jfg7ku2xcm7z" style="font-size: 30px;"> Humans </a>, <a href="https://lava.explorers.guru/validator/lava@valoper1vap54nmw7h4hxhrxmfm8aqxuc2tr0wv596jq0l" style="font-size: 30px;"> Lava </a> and others.
 
 At now i run node QuickSilver and PlanQ mainet with 100% uptime.
 <div>
