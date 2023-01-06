@@ -42,7 +42,10 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
   <img src="https://github.com/madnoder/madnoder/blob/main/Q.png" title="Q"  alt="Q" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Lava.jpeg" title="Lava" alt="Lava" width="60" height="60"/>&nbsp;
 </div>
-Umee, Kujira, Defund, Arhcway, Penumbra, Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ, Terp Network, Uptick, Empower, Neutron, SSV Network, Nibiru, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, Humans and others.
+Umee, Kujira, 
+<a href="https://defund.explorers.guru/validator/defundvaloper1twfpz0tkr627ccw50e49upudxypf2tqkdcjwpr" style="font-size: 30px;"> DeFund </a>, Arhcway, Penumbra, 
+
+Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ, Terp Network, Uptick, Empower, Neutron, SSV Network, Nibiru, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, Humans and others.
 
 
 At now i run node QuickSilver and PlanQ mainet with 100% uptime.
