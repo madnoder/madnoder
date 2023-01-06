@@ -45,7 +45,11 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
 Umee, Kujira, Defund, Arhcway, Penumbra, Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ, Terp Network, Uptick, Empower, Neutron, SSV Network, Nibiru, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, Humans and others.
 
 
-t now i run node QuickSilver and PlanQ mainet with 100% uptime.
+At now i run node QuickSilver and PlanQ mainet with 100% uptime.
+<div>
+  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
+</div>
 https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at
 https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar
 
