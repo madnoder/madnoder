@@ -57,10 +57,14 @@ At now i run node QuickSilver and PlanQ mainet with 100% uptime.
 
 
 
+---
 
-<div id="header" align="center">
-  <img src="" width="500"/>
-</div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-madnoder&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madnoder&theme=radical)](https://git.io/streak-stats)
+
+
+
 
 
 <div id="badges">
@@ -69,4 +73,4 @@ At now i run node QuickSilver and PlanQ mainet with 100% uptime.
   </a>
 </div>
 Discord: Mad as a hatter#4581
-<img src="https://komarev.com/ghpvc/?madnoder=your-github-madnoder&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?madnoder=your-github-username&style=flat-square&color=blue" alt=""/>
