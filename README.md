@@ -25,16 +25,16 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
   <img src="https://github.com/madnoder/madnoder/blob/main/defund.png" title="DeFund" alt="DeFund" width="70" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Archway.jpeg" title="Archway" alt="Archway" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Penumbra.jpeg" title="Penumbra" alt="Penumbra" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Sei.png"  title="Sei" alt="Sei" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Stride.png" title="Stide" alt="Stride" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Sei.png"  title="Sei" alt="Sei" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Stride.png" title="Stide" alt="Stride" width="70" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Stratos.png" title="Stratos" alt="Stratos" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Gnoland.jpeg" title="Gnoland" alt="Gnoland" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/madnoder/madnoder/blob/main/Gnoland.jpeg" title="Gnoland" alt="Gnoland" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Rebus.png" title="Rebus" alt="Rebus" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Teritori.png" title="Teritori"  alt="Teritori" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Ollo.jpeg" title="Ollo" alt="Ollo" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/HAQQ.png" title="HAQQ" alt="HAQQ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Terp.jpeg" title="Terp" **alt="Terp" width="40" height="40"/>
 </div>
 Umee, Kujira, Defund, Arhcway, Penumbra, Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ, Terp Network, Uptick, Empower, Neutron, SSV Network, Noise, Nibiru, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, Humans and others.
 
