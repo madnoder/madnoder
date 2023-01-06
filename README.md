@@ -50,8 +50,8 @@ At now i run node QuickSilver and PlanQ mainet with 100% uptime.
   <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
 </div>
-<a href="https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at" style="font-size: 30px"> QuickSilver </a>
-<a href="https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar" style="font-size: 30px"> PlanQ </a>
+<a href="https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at" style="font-size: 30px;"> QuickSilver </a>
+<a href="https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar" style="font-size: 30px;"> PlanQ </a>
 
 <!--
 **madnoder/madnoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
