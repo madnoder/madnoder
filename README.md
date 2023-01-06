@@ -60,7 +60,6 @@ At now i run node QuickSilver and PlanQ mainet with 100% uptime.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-madnoder&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madnoder&theme=radical)](https://git.io/streak-stats)
 
 
