@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/564x/8d/10/84/8d1084021b3e01e687eeb52f0f32d515.jpg" width="200"/>
 </div>
@@ -11,10 +14,7 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?madnoder=your-github-madnoder&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 
 I have some experience in maintaining a test network validator node:
