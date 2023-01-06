@@ -12,16 +12,16 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
 
 ### : I have some experience in maintaining a test network validator node :
 <div>
-  <img src="https://github.com/madnoder/madnoder/blob/main/umee.png" title="Umee" alt="Umee" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Umee.png" title="Umee" alt="Umee" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/15185.png" title="Kujira" alt="Kujira" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/defund.png" title="DeFund" alt="DeFund" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/defund.jpeg" title="DeFund" alt="DeFund" width="70" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Archway.jpeg" title="Archway" alt="Archway" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Penumbra.jpeg" title="Penumbra" alt="Penumbra" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Sei.png"  title="Sei" alt="Sei" width="70" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Stride.png" title="Stide" alt="Stride" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Sei.jpeg"  title="Sei" alt="Sei" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Stride.png" title="Stide" alt="Stride" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Stratos.png" title="Stratos" alt="Stratos" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Gnoland.jpeg" title="Gnoland" alt="Gnoland" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Gnoland.jpeg" title="Gnoland" alt="Gnoland" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Rebus.png" title="Rebus" alt="Rebus" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Teritori.png" title="Teritori"  alt="Teritori" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Ollo.jpeg" title="Ollo" alt="Ollo" width="60" height="60"/>&nbsp;
@@ -49,7 +49,7 @@ Umee, Kujira,
 
 At now i run node QuickSilver and PlanQ mainet with 100% uptime.
 <div>
-  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/PlanQ.jpeg" title="PlanQ" alt="PlanQ" width="70" height="60"/>&nbsp;
 </div>
 <a href="https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at"> <p style="font-size:55px;color:red;"> QuickSilver </p> </a>
