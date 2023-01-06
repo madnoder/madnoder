@@ -37,7 +37,7 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
   <img src="https://github.com/madnoder/madnoder/blob/main/Forta.jpeg" title="Forta" alt="Forta" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Quai.png" title="Quai" alt="Quai" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Masa_Brand_post.png" title="Masa"  alt="Masa" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Massa.png" title="Massa" alt="Massa" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/MASSA.jpeg" title="Massa" alt="Massa" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Namada.jpeg" title="Namada" alt="Namada" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Q.png" title="Q"  alt="Q" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Lava.jpeg" title="Lava" alt="Lava" width="60" height="60"/>&nbsp;
@@ -48,7 +48,7 @@ Umee, Kujira, Defund, Arhcway, Penumbra, Quicksilver, Sei, Stride, Stratos, Gnol
 At now i run node QuickSilver and PlanQ mainet with 100% uptime.
 <div>
   <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Quicksilver.jpeg" title="Quicksilver" alt="Quicksilver" width="70" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/PlanQ.jpeg" title="PlanQ" alt="PlanQ" width="70" height="60"/>&nbsp;
 </div>
 <a href="https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at"> <p style="font-size:55px;color:red;"> QuickSilver </p> </a>
 <a href="https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar" style="font-size: 30px;"> PlanQ </a>
