@@ -41,7 +41,7 @@ A crypto enthusiast, maybe even cosmos ecosystem geeks.
   <img src="https://github.com/madnoder/madnoder/blob/main/Namada.jpeg" title="Namada" alt="Namada" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Q.png" title="Q"  alt="Q" width="60" height="60"/>&nbsp;
   <img src="https://github.com/madnoder/madnoder/blob/main/Lava.jpeg" title="Lava" alt="Lava" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/madnoder/madnoder/blob/main/Mars_protocol.jpeg" title="Lava" alt="Lava" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/madnoder/madnoder/blob/main/Mars_protocol.jpeg" title="Mars protocol" alt="Mars" width="60" height="60"/>&nbsp;
 </div>
 Umee, Kujira, 
 <a href="https://defund.explorers.guru/validator/defundvaloper1twfpz0tkr627ccw50e49upudxypf2tqkdcjwpr" style="font-size: 30px;"> DeFund </a>, Arhcway, Penumbra, 
