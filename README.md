@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/564x/8d/10/84/8d1084021b3e01e687eeb52f0f32d515.jpg" width="200"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=183189&center=true&multiline=true&width=535&lines=I+am+Mad+as+a+hatter.+A+crypto+enthusiast%2C+maybe+even+cosmos+ecosystem+geeks." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=183189&center=true&width=535&lines=I+am+Mad+as+a+hatter.+;cosmos+ecosystem+geeks.)](https://git.io/typing-svg)
 ---
 
 ### : I have some experience in maintaining a test network validator node :
