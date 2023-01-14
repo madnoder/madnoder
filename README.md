@@ -1,22 +1,16 @@
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div id="header" align="center">
   <img src="https://github.com/madnoder/madnoder/blob/main/block.jpeg" style="max-width: 100%;"></a></p>
 </div>
 
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=30&pause=1000&color=183189&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&height=40&lines=I+am+Mad+as+a+hatter.+;cosmos+ecosystem+geek.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=30&pause=1000&color=183189&center=true&width=435&height=40&lines=I+am+Mad+as+a+hatter.+;cosmos+ecosystem+geek." alt="Typing SVG" /></a>
 
 
 <a href="https://twitter.com/Sergey__Crypto" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" style="max-width: 100%;"></a>
-
 <a href="https://systemd.run/" rel="nofollow"><img height="30" src="https://github.com/madnoder/madnoder/blob/main/systemd.jpg?raw=true" style="max-width: 100%;"></a>
+<a href="https://discord.gg/qtTQrrvq" rel="nofollow"><img height="30" src="https://github.com/madnoder/madnoder/blob/main/discord.jpeg?raw=true" style="max-width: 100%;"></a> Mad as a hatter#4581
 
-Discord: Mad as a hatter#4581
 ---
 
 ### : I have some experience in maintaining a test network validator node :
@@ -70,15 +64,8 @@ At now i run node QuickSilver and PlanQ mainet with 100% uptime.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madnoder&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=madnoder&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-
-
-
-
-<a href="https://twitter.com/Sergey__Crypto" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" style="max-width: 100%;"></a>
-<a href="https://systemd.run/" rel="nofollow"><img height="30" src="https://github.com/madnoder/madnoder/blob/main/systemd.jpg?raw=true" style="max-width: 100%;"></a>
-Discord: Mad as a hatter#4581
 
 <img src="https://komarev.com/ghpvc/?username=madnoder&style=flat-square&color=blue" alt=""/>
 
