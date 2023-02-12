@@ -37,3 +37,32 @@
   </body>
 </html>
 
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav img {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+}
+
+.logos img {
+  height: 60px;
+  margin-right: 10px;
+}
+
+
