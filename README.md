@@ -1,34 +1,39 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>My GitHub Profile</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
     <header>
-      <h1>Welcome to my GitHub Profile</h1>
+      <div id="header" align="center">
+        <figure>
+          <img src="block.jpeg" alt="A block image">
+          <figcaption>A block image</figcaption>
+        </figure>
+      </div>
     </header>
-    <section>
-      <h2>Portfolio</h2>
-      <p>
-        I have a fairly large portfolio of test nets:<br>
-        Umee, Kujira, Defund, Arhcway, Penumbra, Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ, Terp Network, Uptick, Empower, Neutron, SSV Network, Nibiru, Kyve, Forta, Quai Network, Masa finance, Massa, Namada, Q Blockchain, Humans, Mars protocol, Muon.
-      </p>
-      <p>
-        I am currently running QuickSilver node and PlanQ mainet with 100% uptime.
-      </p>
-      <ul>
-        <li>
-          QuickSilver Node: <a href="https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at">https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at</a>
-        </li>
-        <li>
-          PlanQ Mainet: <a href="https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar">https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar</a>
-        </li>
-      </ul>
-    </section>
-    <section>
-      <h2>Blockchain-themed image</h2>
-      <img src="https://i.imgur.com/eXY6uZ7.jpg" alt="Blockchain Image">
-    </section>
+
+    <nav>
+      <a href="https://twitter.com/Sergey__Crypto" rel="nofollow">
+        <img src="twitter.png" alt="Twitter link">
+      </a>
+      <a href="https://systemd.run/" rel="nofollow">
+        <img src="systemd.jpg" alt="Systemd link">
+      </a>
+      <a href="https://discord.gg/qtTQrrvq" rel="nofollow">
+        <img src="discord.jpeg" alt="Discord link">
+      </a> 
+    </nav>
+
+    <main>
+      <p>I have some experience in maintaining a test network validator node:</p>
+      <div class="logos">
+        <img src="Umee.png" alt="Umee logo">
+        <img src="15185.png" alt="Kujira logo">
+        <img src="defund.jpeg" alt="DeFund logo">
+        <!-- ... -->
+      </div>
+    </main>
   </body>
 </html>
+
