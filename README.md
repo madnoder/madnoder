@@ -1,68 +1,198 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-    <header>
-      <div id="header" align="center">
-        <figure>
-          <img src="block.jpeg" alt="A block image">
-          <figcaption>A block image</figcaption>
-        </figure>
-      </div>
-    </header>
-
-    <nav>
-      <a href="https://twitter.com/Sergey__Crypto" rel="nofollow">
-        <img src="twitter.png" alt="Twitter link">
-      </a>
-      <a href="https://systemd.run/" rel="nofollow">
-        <img src="systemd.jpg" alt="Systemd link">
-      </a>
-      <a href="https://discord.gg/qtTQrrvq" rel="nofollow">
-        <img src="discord.jpeg" alt="Discord link">
-      </a> 
-    </nav>
-
-    <main>
-      <p>I have some experience in maintaining a test network validator node:</p>
-      <div class="logos">
-        <img src="Umee.png" alt="Umee logo">
-        <img src="15185.png" alt="Kujira logo">
-        <img src="defund.jpeg" alt="DeFund logo">
-        <!-- ... -->
-      </div>
-    </main>
-  </body>
-</html>
-
-body {
-  font-family: Arial, sans-serif;
+<head>
+  <title>My Blockchain Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
 }
 
-header {
+.portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
   text-align: center;
+  padding: 20px;
 }
 
-nav {
+.card h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.card a {
+  display: block;
+  margin-top: 20px;
+  font-size: 18px;
+  color: blue;
+}
+
+.current-projects {
+  margin-top: 50px;
+}
+
+.current-projects h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.node {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
 }
 
-nav img {
-  height: 30px;
-  margin-right: 10px;
+.node h3 {
+  font-size: 18px;
 }
-
-.logos {
-  display: flex;
-  justify-content: center;
-}
-
-.logos img {
-  height: 60px;
-  margin-right: 10px;
-}
-
+</style>
+</head>
+<body>
+  <h1>My Blockchain Portfolio</h1>
+  <div class="portfolio">
+    <div class="card">
+      <h3>Umee</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Kujira</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Defund</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Archway</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Penumbra</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Quicksilver</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Sei</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Stride</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Stratos</h3>
+      <a href="#">Link</a>
+    </div>
+    <div class="card">
+      <h3>Gnoland</h3>
+      <a href="#">Link</a>
+      </div>
+<div class="card">
+  <h3>Rebus</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Teriroti</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Noise</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Ollo</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>HAQQ</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Terp Network</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Uptick</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Empower</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Neutron</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>SSV Network</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Nibiru</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Kyve</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Forta</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Quai Network</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Masa finance</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Massa</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Namada</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Q Blockchain</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Humans</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Mars protocol</h3>
+  <a href="#">Link</a>
+</div>
+<div class="card">
+  <h3>Muon</h3>
+  <a href="#">Link</a>
+ </div>
+  <h2>Current Running Nodes</h2>
+  <p>I am currently running QuickSilver node and PlanQ mainet with 100% uptime.</p>
+  <ul>
+    <li><a href="https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at">QuickSilver Node</a></li>
+    <li><a href="https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar">PlanQ Mainet</a></li>
+  </ul>
+</body>
+</html>
 
