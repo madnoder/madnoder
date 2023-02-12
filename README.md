@@ -1,76 +1,61 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<title>Madnoder - Github Profile</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<style>
-		body {
-			background-color: #F8F8F8;
-			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-		}
-		.header {
-			background-color: #212121;
-			color: #FFFFFF;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			height: 100px;
-			margin-bottom: 50px;
-		}
-		.header h1 {
-			margin: 0;
-			font-size: 36px;
-			font-weight: bold;
-			text-shadow: 1px 1px 2px #000000;
-		}
-		.container {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: center;
-			margin: 0 20px;
-		}
-		.card {
-			background-color: #FFFFFF;
-			border: 1px solid #E0E0E0;
-			box-shadow: 1px 1px 2px #BDBDBD;
-			width: 300px;
-			height: 400px;
-			margin: 20px;
-			text-align: center;
-		}
-		.card h2 {
-			margin-top: 50px;
-			font-size: 24px;
-			font-weight: bold;
-			color: #212121;
-		}
-		.card p {
-			margin: 20px;
-			font-size: 18px;
-			color: #757575;
-			text-align: left;
-		}
-		.card a {
-			background-color: #212121;
-			color: #FFFFFF;
-			display: inline-block;
-			padding: 10px 20px;
-			border-radius: 20px;
-			text-decoration: none;
-			margin-top: 50px;
-			font-size: 18px;
-			font-weight: bold;
-		}
-	</style>
+  <meta charset="utf-8">
+  <title>Mad Noder</title>
+  <meta name="description" content="GitHub Profile of Mad Noder: a blockchain enthusiast with a large portfolio of testnets">
 </head>
+
 <body>
-	<div class="header">
-		<h1>Madnoder</h1>
-	</div>
-	<div class="container">
-		<div class="card">
-			<h2>Portfolio</h2>
-			<p>I have a fairly large portfolio of testnets: Umee, Kujira, Defund, Archway, Penumbra, Quicksilver, Sei, Stride, Stratos, Gnoland, Rebus, Teriroti, Noise, Ollo, HAQQ,
+  <h1>Mad Noder</h1>
+  <p>Blockchain enthusiast with a large portfolio of testnets</p>
+  
+  <h2>Portfolio</h2>
+  <ul>
+    <li>Umee</li>
+    <li>Kujira</li>
+    <li>Defund</li>
+    <li>Arhcway</li>
+    <li>Penumbra</li>
+    <li>Quicksilver</li>
+    <li>Sei</li>
+    <li>Stride</li>
+    <li>Stratos</li>
+    <li>Gnoland</li>
+    <li>Rebus</li>
+    <li>Teriroti</li>
+    <li>Noise</li>
+    <li>Ollo</li>
+    <li>HAQQ</li>
+    <li>Terp Network</li>
+    <li>Uptick</li>
+    <li>Empower</li>
+    <li>Neutron</li>
+    <li>SSV Network</li>
+    <li>Nibiru</li>
+    <li>Kyve</li>
+    <li>Forta</li>
+    <li>Quai Network</li>
+    <li>Masa finance</li>
+    <li>Massa</li>
+    <li>Namada</li>
+    <li>Q Blockchain</li>
+    <li>Humans</li>
+    <li>Mars protocol</li>
+    <li>Muon</li>
+  </ul>
+  
+  <h2>Current Testnets</h2>
+  <p>I am currently running QuickSilver node and PlanQ mainet with 100% uptime.</p>
+  <ul>
+    <li>QuickSilver node: 
+      <a href="https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at">
+        https://quicksilver.explorers.guru/validator/quickvaloper164kd2jgy4evt0zrl8z8nd3hspp777v8s5gp6at
+      </a>
+    </li>
+    <li>PlanQ mainet: 
+      <a href="https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar">
+        https://explorer.nodestake.top/planq/staking/plqvaloper1tsrnkfqelmz4ggu2pygdxww3hupqv9x4mdjlar
+      </a>
+
