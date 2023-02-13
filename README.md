@@ -1,6 +1,6 @@
 
 
-```
+```python
 class NodeValidator:
     def __init__(self):
         self.name = "Mad as a hatter"
