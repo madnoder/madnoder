@@ -9,7 +9,7 @@ class NodeValidator:
         self.verification = 100
         self.networks = ["Cosmos", "Aptos", "Eth", "BSC"]
         self.mainportfolio = ["Quicksilver, Planq"]
-        self.testportfolio = ["Umee", "Kujira", "Defund", "Arhcway", "Penumbra", "Quicksilver", "Sei", "Stride", "Stratos", "Gnoland", "Rebus", "Teriroti", "Noise", "Ollo", "HAQQ", "Terp Network", "Uptick", "Empower", "Neutron", "SSV Network", "Nibiru", "Kyve", "Forta", "Quai Network", "Masa finance", "Massa", "Namada", "Q Blockchain", "Humans", "Mars protocol", "Moun"]
+        self.testportfolio = ["Umee", "Kujira", "Defund", "Arhcway", "Penumbra", "Quicksilver", "Sei", "Stride", "Stratos", "Gnoland", "Rebus", "Teriroti", "Noise", "Ollo", "HAQQ", "Terp Network", "Uptick", "Empower", "Neutron", "SSV Network", "Nibiru", "Kyve", "Forta", "Quai Network", "Masa finance", "Massa", "Namada", "Q Blockchain", "Humans", "Mars protocol", "Moun", "Dymension", "5ire", "Andromeda"]
         self.tools = ["GoLang","Python"]
         self.contributions = ["Stable operation of the validator node with excellent uptime, IBC deployment"]
         self.email = "vova1node@gmail.com"
